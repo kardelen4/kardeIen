@@ -1,6 +1,9 @@
 # Kardelen Yagiz
-I’m a Computer Science undergraduate with hands-on experience building AI-driven solutions and dynamic web applications. As a BSc (Honours) student at the University of Nottingham, I’m passionate about exploring innovative projects that apply machine learning and data insights to solve problems.
+I'm a Computer Science with Artificial Intelligence student at the University of Nottingham, graduating in June 2027. I’m passionate about problem solving and always looking for opportunities to challenge myself, learn something new, and build smarter solutions.
 
+Right now, I’m working as a Technology Solutions Intern at NBCUniversal, where I’m learning React directly from senior developers and contributing to internal tools through paired programming. I’m especially comfortable with Python and Java, and I enjoy front-end development too. I've also trained regression models to analyse patterns and make predictions from data.
+
+From creating responsive web apps to training machine learning models, I enjoy projects that push me to think creatively.
 
 ## 🧳 Featured Projects
 
