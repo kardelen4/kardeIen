@@ -18,3 +18,8 @@ Driver and vehicle lookup system with form validation, responsive design, and da
 **Java | JavaFX | MVC Architecture | Unit Testing**
 
 A full Java recreation of the classic Frogger game, built using JavaFX and an MVC structure. Includes player movement, obstacles, collision logic, scoring, and several layers of testing (unit, integration, and behavioural).  
+
+### [🎓 Mentee Mentor Matching System](https://github.com/kardelen4/Mentee-Mentor-System)
+**Java | JavaFX | MVC Architecture**  
+
+An academic Java MVC application for matching mentors and mentees. Supports admin-controlled matching logic, availability checks, secure login, and structured UI using JavaFX. Implements SOLID principles, design patterns (Factory, Repository, Observer), and follows a TDD approach.
